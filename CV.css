@@ -159,7 +159,7 @@ li {
     .nav_bar{text-align:center;}
     .nav_bar li {font-size:12px;margin-right:10px;}
     .row0{position:relative;}
-    .overlay{position:absolute;top:35px;left:20px;line-height:16px;}
+    .overlay{width:120px;height:90px;position:absolute;top:35px;left:20px;line-height:16px;}
     .overlay p{font-size:14px;}
     .push_btn{display:block;width:100px;height:20px;position:absolute;top:45px;left:20px;text-align:center;}
     .push_btn a {font-size:11px;}
@@ -173,7 +173,7 @@ li {
     .nav_bar{text-align:center;}
     .nav_bar li {font-size:12px;margin-right:10px;}
     .row0{position:relative;}
-    .overlay{position:absolute;top:35px;left:20px;line-height:16px;}
+    .overlay{width:120px;height:90px;position:absolute;top:35px;left:20px;line-height:16px;}
     .overlay p{font-size:14px;}
     .push_btn{display:block;width:100px;height:20px;position:absolute;top:285px;left:20px;text-align:center;}
     .push_btn a {font-size:11px;}
