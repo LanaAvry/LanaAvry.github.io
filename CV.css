@@ -160,8 +160,8 @@ li {
     .nav_bar li {font-size:12px;margin-right:10px;}
     .row0{position:relative;}
     .overlay{width:220px;height:120px;position:absolute;margin-left:0;top:45px;left:30px;line-height:16px;}
-    .overlay p{padding-top:5px;padding-bottom:5px;font-size:14px;}
-    .push_btn{display:block;width:100px;height:20px;margin-left:0;position:absolute;top:170px;left:30px;text-align:center;line-height:12px;}
+    .overlay p{padding-bottom:5px;font-size:14px;}
+    .push_btn{display:block;width:100px;height:20px;margin-left:0;position:absolute;top:170px;left:30px;padding-right:15px;text-align:center;line-height:20px;}
     .push_btn a {padding-right:0;font-size:11px;}
     .title{font-size:16px;}
     .mark{font-size:14px;}
@@ -174,8 +174,8 @@ li {
     .nav_bar li {font-size:12px;margin-right:10px;}
     .row0{position:relative;}
     .overlay{width:220px;height:120px;position:absolute;margin-left:0;top:45px;left:30px;line-height:16px;}
-    .overlay p{padding-top:5px;padding-bottom:5px;font-size:14px;}
-    .push_btn{display:block;width:100px;height:20px;margin-left:0;position:absolute;top:170px;left:30px;text-align:center;line-height:12px;}
+    .overlay p{padding-bottom:5px;font-size:14px;}
+    .push_btn{display:block;width:100px;height:20px;margin-left:0;position:absolute;top:170px;left:30px;padding-right:15px;text-align:center;line-height:20px;}
     .push_btn a {padding-right:0;font-size:11px;}
     .title{font-size:16px;}
     .mark{font-size:14px;}
