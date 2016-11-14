@@ -148,15 +148,11 @@ li {
     background-color: #ffffff;
 }
 
-.fl_right {
-    float: right;
-    margin-right: 60px;
-    line-height: 12px;
-}
+
 
 @media screen and (max-width: 768px) {
     body{width:100%;min-height: 100vh;}
-    .nav_bar{text-align:center;}
+    nav{text-align:center;}
     .nav_bar li {font-size:12px;margin-right:10px;}
     .row0{position:relative;}
     .overlay{width:220px;height:120px;position:absolute;margin-left:0;top:45px;left:30px;line-height:16px;}
@@ -165,12 +161,14 @@ li {
     .push_btn a {padding-right:0;font-size:11px;}
     .title{font-size:16px;}
     .mark{font-size:14px;}
+    .container{margin: 0 auto;}
     .container p{font-size:13px;}
+
 }
 
 @media screen and (max-width: 320px) {
     body {width:100%;min-height:100vh;}
-    .nav_bar{text-align:center;}
+    nav {text-align:center;}
     .nav_bar li {font-size:12px;margin-right:10px;}
     .row0{position:relative;}
     .overlay{width:220px;height:120px;position:absolute;margin-left:0;top:45px;left:30px;line-height:16px;}
@@ -179,6 +177,7 @@ li {
     .push_btn a {padding-right:0;font-size:11px;}
     .title{font-size:16px;}
     .mark{font-size:14px;}
+    .container{margin: 0 auto;}
     .container p{font-size:13px;}
 
 }
