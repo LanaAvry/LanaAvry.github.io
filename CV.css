@@ -152,7 +152,7 @@ li {
 
 @media screen and (max-width: 768px) {
     body{width:100%;min-height: 100vh;}
-    .nav_bar{margin-left:15px;}
+    .nav_bar{padding-left:15px;}
     .nav_bar li {font-size:12px;margin-right:10px;}
     .row0{position:relative;}
     .overlay{width:220px;height:120px;position:absolute;margin-left:0;top:45px;left:30px;line-height:16px;}
@@ -161,13 +161,13 @@ li {
     .push_btn a {padding-right:0;font-size:11px;}
     .title{font-size:16px;}
     .mark{font-size:14px;}
-    .container{padding-right:10px;}
+    .container{padding-right:15px;}
     .container p{font-size:13px;}
 }
 
 @media screen and (max-width: 320px) {
     body {width:100%;min-height:100vh;}
-    .nav_bar {margin-left:15px;}
+    .nav_bar {padding-left:15px;}
     .nav_bar li {font-size:12px;margin-right:10px;}
     .row0{position:relative;}
     .overlay{width:220px;height:120px;position:absolute;margin-left:0;top:45px;left:30px;line-height:16px;}
@@ -176,7 +176,7 @@ li {
     .push_btn a {padding-right:0;font-size:11px;}
     .title{font-size:16px;}
     .mark{font-size:14px;}
-    .container{padding-right:10px;}
+    .container{padding-right:15px;}
     .container p{font-size:13px;}
 }
 
