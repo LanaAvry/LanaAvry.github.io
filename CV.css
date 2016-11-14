@@ -156,7 +156,6 @@ li {
 
 @media screen and (max-width: 768px) {
     body{width:100%;min-height: 100vh;}
-    .wrapper .row0{background-image: 100% 100%;}
     .nav_bar li {font-size:12px;margin-right:10px;}
     .wrapper{position:relative;}
     .overlay{display: block;width:240px;height:140px;position:absolute;top:35px;left:20px;line-height:16px;}
@@ -165,13 +164,11 @@ li {
     .push_btn a {font-size:11px;}
     .title{font-size:16px;}
     .mark{font-size:14px;}
-    .container{text-align:center;}
     .container p{font-size:13px;}
 }
 
 @media screen and (max-width: 320px) {
     body {width:100%;min-height: 100vh;}
-    .wrapper .row0{background-image:100% 100%;}
     .nav_bar li {font-size:12px;margin-right:10px;}
     .wrapper{position:relative;}
     .overlay{display:block;width:240px;height:140px;position:absolute;top:35px;left:20px;line-height:16px;}
@@ -180,7 +177,6 @@ li {
     .push_btn a {font-size:11px;}
     .title{font-size:16px;}
     .mark{font-size:14px;}
-    .container{text-align:center;}
     .container p{font-size:13px;}
 
 }
