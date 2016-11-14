@@ -159,9 +159,9 @@ li {
     .nav_bar{text-align:center;}
     .nav_bar li {font-size:12px;margin-right:10px;}
     .row0{position:relative;}
-    .overlay{width:200px;height:140px;position:absolute;margin-left:0;top:35px;left:20px;line-height:16px;}
+    .overlay{width:220px;height:120px;position:absolute;margin-left:0;top:35px;left:20px;line-height:16px;}
     .overlay p{font-size:14px;}
-    .push_btn{display:block;width:100px;height:20px;margin-left:0;position:absolute;top:185px;left:10px;text-align:center;}
+    .push_btn{display:block;width:100px;height:20px;margin-left:0;position:absolute;top:185px;left:20px;text-align:center;}
     .push_btn a {font-size:11px;}
     .title{font-size:16px;}
     .mark{font-size:14px;}
@@ -173,9 +173,9 @@ li {
     .nav_bar{text-align:center;}
     .nav_bar li {font-size:12px;margin-right:10px;}
     .row0{position:relative;}
-    .overlay{width:200px;height:140px;position:absolute;margin-left:0;top:35px;left:20px;line-height:16px;}
+    .overlay{width:220px;height:120px;position:absolute;margin-left:0;top:35px;left:20px;line-height:16px;}
     .overlay p{font-size:14px;}
-    .push_btn{display:block;width:100px;height:20px;margin-left:0;position:absolute;top:185px;left:10px;text-align:center;}
+    .push_btn{display:block;width:100px;height:20px;margin-left:0;position:absolute;top:185px;left:20px;text-align:center;line-height:20px;}
     .push_btn a {font-size:11px;}
     .title{font-size:16px;}
     .mark{font-size:14px;}
