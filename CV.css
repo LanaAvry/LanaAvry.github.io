@@ -15,7 +15,7 @@ html {
 body {
     width: 60%;
     margin: auto;
-    background-color: rgba(208, 154, 61, 0.40);
+    background-color: rgba(118, 82, 135, 1); /* rgba(208, 154, 61, 0.40) */
 }
 
 .wrapper {
@@ -34,12 +34,17 @@ body {
 
 #topbar {
     padding: 0px;
-    padding-top: 15px;
+    padding-top: 10px;
     padding-right: 0px;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
     padding-left: 0px;
     font-size: 14px;
     text-transform: uppercase;
+}
+
+.fa-google-plus,
+.fa-skype {
+    margin-right: 5px;
 }
 
 .hoc {
