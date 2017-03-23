@@ -85,19 +85,22 @@ body {
     width: 460px;
     height: 140px;
     background-color: rgba(171, 92, 92, 0.55);
-    display: block;
+    display: table;
     text-align: center;
     margin-left: 80px;
     line-height: 20px;
  }
 
 .overlay p {
-    padding-top: 30px;
     font-size: 20px;
+    display: table-cell;
+    vertical-align: middle;
+
 }
 
 .push_btn {
     display: block;
+    position: relative;
     list-style: none;
     background-color: rgba(208, 154, 61, 0.69);
     width: 160px;
@@ -108,10 +111,12 @@ body {
 }
 
 .push_btn a {
+    position: absolute;
+    top: 3%;
+    left: 25%;
     text-align: center;
-    text-transform: uppercase; 
-    padding-right: 30px;   
- }
+    text-transform: uppercase;
+}
 
 a {
    color: #DFA94F;
