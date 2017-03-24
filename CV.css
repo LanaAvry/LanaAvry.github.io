@@ -68,7 +68,8 @@ body {
 
 .nav_bar li {
     display: inline-block;
-    margin-right: 60px;
+    margin-left: 0 auto;
+    margin-right: 30px;
     font-size: 24px;
 }
 
@@ -76,6 +77,12 @@ body {
     font-size: 16px;
     text-transform: none;
     color: black;
+}
+
+.link {
+    font-size: 18px;
+    color: darkred;
+    font-weight: bold;
 }
 
 #pageintro {
